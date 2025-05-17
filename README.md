@@ -15,7 +15,8 @@ A comprehensive university management system built with PHP, MySQL, HTML, CSS, a
 - Grade tracking and calculation
 - Department administration
 - User authentication
-
+### To get password credentials
+- write this query **select  * from users;**
 ## Technology Stack
 
 ### Backend
